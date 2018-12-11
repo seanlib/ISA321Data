@@ -1,0 +1,501 @@
+City,Variable,Scores,Lat,Long
+Atlanta,Unemployment Rate,0.273347752,33°44.56,84°23.16
+Atlanta,Tax rate,0.553042249,33°44.56,84°23.16
+Atlanta,Crime Rate,0.956370285,33°44.56,84°23.16
+Atlanta,Number of Concert Venues,0.035220215,33°44.56,84°23.16
+Atlanta,number of breweries ,0.910143753,33°44.56,84°23.16
+Atlanta,median 1 BR rent,0.450977513,33°44.56,84°23.16
+Atlanta,AVG Temp (Jan),42.7,33°44.56,84°23.16
+Atlanta,AVG Temp (April),61.6,33°44.56,84°23.16
+Atlanta,AVG Temp (July),80,33°44.56,84°23.16
+Atlanta,AVG Temp (Oct),62.8,33°44.56,84°23.16
+Atlanta,Yearly AVG Temp,61.78,33°44.56,84°23.16
+Atlanta,average rainfall,0.828547499,33°44.56,84°23.16
+Atlanta,average snowfall,0.184533349,33°44.56,84°23.16
+Atlanta,Presence of Sports Teams,0.664145167,33°44.56,84°23.16
+Atlanta,Public Parks,0.290812361,33°44.56,84°23.16
+Atlanta,Total Population,0.316420874,33°44.56,84°23.16
+Atlanta,Age (25-34),0.318295213,33°44.56,84°23.16
+Atlanta,Population,0.255549298,33°44.56,84°23.16
+Atlanta,Bar Density per 100k,0.392908477,33°44.56,84°23.16
+Atlanta,Public Transportation,0.419515529,33°44.56,84°23.16
+Austin,Unemployment Rate,0.178802099,30°16.1,97°44.35
+Austin,Tax rate,0.094754119,30°16.1,97°44.35
+Austin,Crime Rate,0.077419478,30°16.1,97°44.35
+Austin,Number of Concert Venues,0.113899997,30°16.1,97°44.35
+Austin,number of breweries ,0.327360423,30°16.1,97°44.35
+Austin,median 1 BR rent,0.555641647,30°16.1,97°44.35
+Austin,AVG Temp (Jan),50.2,30°16.1,97°44.35
+Austin,AVG Temp (April),68.3,30°16.1,97°44.35
+Austin,AVG Temp (July),84.2,30°16.1,97°44.35
+Austin,AVG Temp (Oct),70.6,30°16.1,97°44.35
+Austin,Yearly AVG Temp,68.33,30°16.1,97°44.35
+Austin,average rainfall,0.368647543,30°16.1,97°44.35
+Austin,average snowfall,0.169339848,30°16.1,97°44.35
+Austin,Presence of Sports Teams,0.049809159,30°16.1,97°44.35
+Austin,Public Parks,0.295716611,30°16.1,97°44.35
+Austin,Total Population,0.422588566,30°16.1,97°44.35
+Austin,Age (25-34),0.463231842,30°16.1,97°44.35
+Austin,Population,0.33028399,30°16.1,97°44.35
+Austin,Bar Density per 100k,0.607091523,30°16.1,97°44.35
+Austin,Public Transportation,0.166766826,30°16.1,97°44.35
+Boston,Unemployment Rate,0.178802099,42°21.30,71°3.35
+Boston,Tax rate,0.466744233,42°21.30,71°3.35
+Boston,Crime Rate,0.046378397,42°21.30,71°3.35
+Boston,Number of Concert Venues,0.3815123,42°21.30,71°3.35
+Boston,number of breweries ,0.036819135,42°21.30,71°3.35
+Boston,median 1 BR rent,0.90580259,42°21.30,71°3.35
+Boston,AVG Temp (Jan),29.3,42°21.30,71°3.35
+Boston,AVG Temp (April),48.3,42°21.30,71°3.35
+Boston,AVG Temp (July),73.9,42°21.30,71°3.35
+Boston,AVG Temp (Oct),54.1,42°21.30,71°3.35
+Boston,Yearly AVG Temp,51.4,42°21.30,71°3.35
+Boston,average rainfall,0.63811885,42°21.30,71°3.35
+Boston,average snowfall,0.861645866,42°21.30,71°3.35
+Boston,Presence of Sports Teams,0.973864457,42°21.30,71°3.35
+Boston,Public Parks,0.724524924,42°21.30,71°3.35
+Boston,Total Population,0.35749124,42°21.30,71°3.35
+Boston,Age (25-34),0.389827336,42°21.30,71°3.35
+Boston,Population,0.365915489,42°21.30,71°3.35
+Boston,Bar Density per 100k,0.207467626,42°21.30,71°3.35
+Boston,Public Transportation,0.922547832,42°21.30,71°3.35
+Chicago,Unemployment Rate,0.636433835,41°51.0,87°39.0
+Chicago,Tax rate,0.45240346,41°51.0,87°39.0
+Chicago,Crime Rate,0.946833033,41°51.0,87°39.0
+Chicago,Number of Concert Venues,0.035220215,41°51.0,87°39.0
+Chicago,number of breweries ,0.251167477,41°51.0,87°39.0
+Chicago,median 1 BR rent,0.4955948,41°51.0,87°39.0
+Chicago,AVG Temp (Jan),22,41°51.0,87°39.0
+Chicago,AVG Temp (April),47.8,41°51.0,87°39.0
+Chicago,AVG Temp (July),73.3,41°51.0,87°39.0
+Chicago,AVG Temp (Oct),52.1,41°51.0,87°39.0
+Chicago,Yearly AVG Temp,48.8,41°51.0,87°39.0
+Chicago,average rainfall,0.447417377,41°51.0,87°39.0
+Chicago,average snowfall,0.803316302,41°51.0,87°39.0
+Chicago,Presence of Sports Teams,0.798477473,41°51.0,87°39.0
+Chicago,Public Parks,0.860136315,41°51.0,87°39.0
+Chicago,Total Population,0.783386811,41°51.0,87°39.0
+Chicago,Age (25-34),0.803953778,41°51.0,87°39.0
+Chicago,Population,0.3534891,41°51.0,87°39.0
+Chicago,Bar Density per 100k,0.087115694,41°51.0,87°39.0
+Chicago,Public Transportation,0.830962655,41°51.0,87°39.0
+Cincinnati,Unemployment Rate,0.636433835,39°7.37,84°30.51
+Cincinnati,Tax rate,0.456891119,39°7.37,84°30.51
+Cincinnati,Crime Rate,0.429838981,39°7.37,84°30.51
+Cincinnati,Number of Concert Venues,0.886100003,39°7.37,84°30.51
+Cincinnati,number of breweries ,0.941237566,39°7.37,84°30.51
+Cincinnati,median 1 BR rent,0.16852742,39°7.37,84°30.51
+Cincinnati,AVG Temp (Jan),29.5,39°7.37,84°30.51
+Cincinnati,AVG Temp (April),54,39°7.37,84°30.51
+Cincinnati,AVG Temp (July),76,39°7.37,84°30.51
+Cincinnati,AVG Temp (Oct),55.5,39°7.37,84°30.51
+Cincinnati,Yearly AVG Temp,53.75,39°7.37,84°30.51
+Cincinnati,average rainfall,0.634332498,39°7.37,84°30.51
+Cincinnati,average snowfall,0.605643994,39°7.37,84°30.51
+Cincinnati,Presence of Sports Teams,0.416100322,39°7.37,84°30.51
+Cincinnati,Public Parks,0.89076119,39°7.37,84°30.51
+Cincinnati,Total Population,0.278157978,39°7.37,84°30.51
+Cincinnati,Age (25-34),0.269017333,39°7.37,84°30.51
+Cincinnati,Population,0.651400637,39°7.37,84°30.51
+Cincinnati,Bar Density per 100k,0.751547076,39°7.37,84°30.51
+Cincinnati,Public Transportation,0.363244597,39°7.37,84°30.51
+Cleveland,Unemployment Rate,0.927747018,41°29.58,81°41.43
+Cleveland,Tax rate,0.456891119,41°29.58,81°41.43
+Cleveland,Crime Rate,0.535702975,41°29.58,81°41.43
+Cleveland,Number of Concert Venues,0.035220215,41°29.58,81°41.43
+Cleveland,number of breweries ,0.036819135,41°29.58,81°41.43
+Cleveland,median 1 BR rent,0.170707314,41°29.58,81°41.43
+Cleveland,AVG Temp (Jan),25.7,41°29.58,81°41.43
+Cleveland,AVG Temp (April),47.6,41°29.58,81°41.43
+Cleveland,AVG Temp (July),71.9,41°29.58,81°41.43
+Cleveland,AVG Temp (Oct),52.2,41°29.58,81°41.43
+Cleveland,Yearly AVG Temp,49.35,41°29.58,81°41.43
+Cleveland,average rainfall,0.522765537,41°29.58,81°41.43
+Cleveland,average snowfall,0.964845391,41°29.58,81°41.43
+Cleveland,Presence of Sports Teams,0.605992245,41°29.58,81°41.43
+Cleveland,Public Parks,0.406153244,41°29.58,81°41.43
+Cleveland,Total Population,0.29431818,41°29.58,81°41.43
+Cleveland,Age (25-34),0.293486282,41°29.58,81°41.43
+Cleveland,Population,0.721617672,41°29.58,81°41.43
+Cleveland,Bar Density per 100k,0.889308559,41°29.58,81°41.43
+Cleveland,Public Transportation,0.445945857,41°29.58,81°41.43
+Columbus,Unemployment Rate,0.575475659,39°57.40,82°59.55
+Columbus,Tax rate,0.456891119,39°57.40,82°59.55
+Columbus,Crime Rate,0.26946297,39°57.40,82°59.55
+Columbus,Number of Concert Venues,0.035220215,39°57.40,82°59.55
+Columbus,number of breweries ,0.672639577,39°57.40,82°59.55
+Columbus,median 1 BR rent,0.165291291,39°57.40,82°59.55
+Columbus,AVG Temp (Jan),28.3,39°57.40,82°59.55
+Columbus,AVG Temp (April),52,39°57.40,82°59.55
+Columbus,AVG Temp (July),75.1,39°57.40,82°59.55
+Columbus,AVG Temp (Oct),54.7,39°57.40,82°59.55
+Columbus,Yearly AVG Temp,52.53,39°57.40,82°59.55
+Columbus,average rainfall,0.516892689,39°57.40,82°59.55
+Columbus,average snowfall,0.646293609,39°57.40,82°59.55
+Columbus,Presence of Sports Teams,0.093275251,39°57.40,82°59.55
+Columbus,Public Parks,0.108387858,39°57.40,82°59.55
+Columbus,Total Population,0.399537456,39°57.40,82°59.55
+Columbus,Age (25-34),0.412105849,39°57.40,82°59.55
+Columbus,Population,0.378484167,39°57.40,82°59.55
+Columbus,Bar Density per 100k,0.932491309,39°57.40,82°59.55
+Columbus,Public Transportation,0.131399858,39°57.40,82°59.55
+Dallas,Unemployment Rate,0.449514422,32°46.59,96°48.24
+Dallas,Tax rate,0.094754119,32°46.59,96°48.24
+Dallas,Crime Rate,0.348600596,32°46.59,96°48.24
+Dallas,Number of Concert Venues,0.035220215,32°46.59,96°48.24
+Dallas,number of breweries ,0.748832523,32°46.59,96°48.24
+Dallas,median 1 BR rent,0.340098988,32°46.59,96°48.24
+Dallas,AVG Temp (Jan),44.1,32°46.59,96°48.24
+Dallas,AVG Temp (April),65,32°46.59,96°48.24
+Dallas,AVG Temp (July),85,32°46.59,96°48.24
+Dallas,AVG Temp (Oct),67.2,32°46.59,96°48.24
+Dallas,Yearly AVG Temp,65.33,32°46.59,96°48.24
+Dallas,average rainfall,0.400653601,32°46.59,96°48.24
+Dallas,average snowfall,0.191106692,32°46.59,96°48.24
+Dallas,Presence of Sports Teams,0.664145167,32°46.59,96°48.24
+Dallas,Public Parks,0.195598628,32°46.59,96°48.24
+Dallas,Total Population,0.508203549,32°46.59,96°48.24
+Dallas,Age (25-34),0.499554019,32°46.59,96°48.24
+Dallas,Population,0.138239416,32°46.59,96°48.24
+Dallas,Bar Density per 100k,0.110691441,32°46.59,96°48.24
+Dallas,Public Transportation,0.278221697,32°46.59,96°48.24
+Denver,Unemployment Rate,0.223230136,39°44.20,104°59.4
+Denver,Tax rate,0.422039538,39°44.20,104°59.4
+Denver,Crime Rate,0.199396,39°44.20,104°59.4
+Denver,Number of Concert Venues,0.182856148,39°44.20,104°59.4
+Denver,number of breweries ,0.089856247,39°44.20,104°59.4
+Denver,median 1 BR rent,0.484413371,39°44.20,104°59.4
+Denver,AVG Temp (Jan),29.2,39°44.20,104°59.4
+Denver,AVG Temp (April),47.6,39°44.20,104°59.4
+Denver,AVG Temp (July),73.4,39°44.20,104°59.4
+Denver,AVG Temp (Oct),51,39°44.20,104°59.4
+Denver,Yearly AVG Temp,50.3,39°44.20,104°59.4
+Denver,average rainfall,0.042771811,39°44.20,104°59.4
+Denver,average snowfall,0.973910898,39°44.20,104°59.4
+Denver,Presence of Sports Teams,0.61663932,39°44.20,104°59.4
+Denver,Public Parks,0.527498635,39°44.20,104°59.4
+Denver,Total Population,0.364272838,39°44.20,104°59.4
+Denver,Age (25-34),0.389902971,39°44.20,104°59.4
+Denver,Population,0.490345811,39°44.20,104°59.4
+Denver,Bar Density per 100k,0.554039256,39°44.20,104°59.4
+Denver,Public Transportation,0.462898874,39°44.20,104°59.4
+Houston,Unemployment Rate,0.837290751,29°45.47,95°21.47
+Houston,Tax rate,0.094754119,29°45.47,95°21.47
+Houston,Crime Rate,0.841095992,29°45.47,95°21.47
+Houston,Number of Concert Venues,0.035220215,29°45.47,95°21.47
+Houston,number of breweries ,0.868223761,29°45.47,95°21.47
+Houston,median 1 BR rent,0.297774262,29°45.47,95°21.47
+Houston,AVG Temp (Jan),51.8,29°45.47,95°21.47
+Houston,AVG Temp (April),68.5,29°45.47,95°21.47
+Houston,AVG Temp (July),83.6,29°45.47,95°21.47
+Houston,AVG Temp (Oct),70.4,29°45.47,95°21.47
+Houston,Yearly AVG Temp,68.58,29°45.47,95°21.47
+Houston,average rainfall,0.777972065,29°45.47,95°21.47
+Houston,average snowfall,0.163253255,29°45.47,95°21.47
+Houston,Presence of Sports Teams,0.559314138,29°45.47,95°21.47
+Houston,Public Parks,0.047473783,29°45.47,95°21.47
+Houston,Total Population,0.720538439,29°45.47,95°21.47
+Houston,Age (25-34),0.715021368,29°45.47,95°21.47
+Houston,Population,0.151334974,29°45.47,95°21.47
+Houston,Bar Density per 100k,0.138521509,29°45.47,95°21.47
+Houston,Public Transportation,0.222030268,29°45.47,95°21.47
+Indianapolis,Unemployment Rate,0.178802099,39°46.6,86°9.28
+Indianapolis,Tax rate,0.296693095,39°46.6,86°9.28
+Indianapolis,Crime Rate,0.735790696,39°46.6,86°9.28
+Indianapolis,Number of Concert Venues,0.5,39°46.6,86°9.28
+Indianapolis,number of breweries ,0.036819135,39°46.6,86°9.28
+Indianapolis,median 1 BR rent,0.197660361,39°46.6,86°9.28
+Indianapolis,AVG Temp (Jan),26.5,39°46.6,86°9.28
+Indianapolis,AVG Temp (April),52,39°46.6,86°9.28
+Indianapolis,AVG Temp (July),75.4,39°46.6,86°9.28
+Indianapolis,AVG Temp (Oct),54.6,39°46.6,86°9.28
+Indianapolis,Yearly AVG Temp,52.13,39°46.6,86°9.28
+Indianapolis,average rainfall,0.591290314,39°46.6,86°9.28
+Indianapolis,average snowfall,0.565730082,39°46.6,86°9.28
+Indianapolis,Presence of Sports Teams,0.439573338,39°46.6,86°9.28
+Indianapolis,Public Parks,0.499090234,39°46.6,86°9.28
+Indianapolis,Total Population,0.395266347,39°46.6,86°9.28
+Indianapolis,Age (25-34),0.375336257,39°46.6,86°9.28
+Indianapolis,Population,0.240171088,39°46.6,86°9.28
+Indianapolis,Bar Density per 100k,0.948499843,39°46.6,86°9.28
+Indianapolis,Public Transportation,0.05587761,39°46.6,86°9.28
+Los Angeles,Unemployment Rate,0.903303084,34°3.8,118°14.37
+Los Angeles,Tax rate,0.970748187,34°3.8,118°14.37
+Los Angeles,Crime Rate,0.480222926,34°3.8,118°14.37
+Los Angeles,Number of Concert Venues,0.035220215,34°3.8,118°14.37
+Los Angeles,number of breweries ,0.036819135,34°3.8,118°14.37
+Los Angeles,median 1 BR rent,0.727669735,34°3.8,118°14.37
+Los Angeles,AVG Temp (Jan),57.1,34°3.8,118°14.37
+Los Angeles,AVG Temp (April),60.8,34°3.8,118°14.37
+Los Angeles,AVG Temp (July),69.3,34°3.8,118°14.37
+Los Angeles,AVG Temp (Oct),66.9,34°3.8,118°14.37
+Los Angeles,Yearly AVG Temp,63.53,34°3.8,118°14.37
+Los Angeles,average rainfall,0.027068414,34°3.8,118°14.37
+Los Angeles,average snowfall,0.158487632,34°3.8,118°14.37
+Los Angeles,Presence of Sports Teams,0.952493539,34°3.8,118°14.37
+Los Angeles,Public Parks,0.098151146,34°3.8,118°14.37
+Los Angeles,Total Population,0.94003805,34°3.8,118°14.37
+Los Angeles,Age (25-34),0.921925007,34°3.8,118°14.37
+Los Angeles,Population,0.165431881,34°3.8,118°14.37
+Los Angeles,Bar Density per 100k,0.051500157,34°3.8,118°14.37
+Los Angeles,Public Transportation,0.552894443,34°3.8,118°14.37
+Louisville,Unemployment Rate,0.873271802,38°15.15,85°45.33
+Louisville,Tax rate,0.553042249,38°15.15,85°45.33
+Louisville,Crime Rate,0.591663557,38°15.15,85°45.33
+Louisville,Number of Concert Venues,0.817143852,38°15.15,85°45.33
+Louisville,number of breweries ,0.036819135,38°15.15,85°45.33
+Louisville,median 1 BR rent,0.183589739,38°15.15,85°45.33
+Louisville,AVG Temp (Jan),33,38°15.15,85°45.33
+Louisville,AVG Temp (April),56.4,38°15.15,85°45.33
+Louisville,AVG Temp (July),78.4,38°15.15,85°45.33
+Louisville,AVG Temp (Oct),58.5,38°15.15,85°45.33
+Louisville,Yearly AVG Temp,56.58,38°15.15,85°45.33
+Louisville,average rainfall,0.694750853,38°15.15,85°45.33
+Louisville,average snowfall,0.420563983,38°15.15,85°45.33
+Louisville,Presence of Sports Teams,0.050694177,38°15.15,85°45.33
+Louisville,Public Parks,0.031282506,38°15.15,85°45.33
+Louisville,Total Population,0.342958387,38°15.15,85°45.33
+Louisville,Age (25-34),0.305053646,38°15.15,85°45.33
+Louisville,Population,0.130351384,38°15.15,85°45.33
+Louisville,Bar Density per 100k,0.912884306,38°15.15,85°45.33
+Louisville,Public Transportation,0.101584294,38°15.15,85°45.33
+Miami,Unemployment Rate,0.32848193,25°46.27,80°11.37
+Miami,Tax rate,0.094754119,25°46.27,80°11.37
+Miami,Crime Rate,0.612908866,25°46.27,80°11.37
+Miami,Number of Concert Venues,0.035220215,25°46.27,80°11.37
+Miami,number of breweries ,0.036819135,25°46.27,80°11.37
+Miami,median 1 BR rent,0.486992934,25°46.27,80°11.37
+Miami,AVG Temp (Jan),68.1,25°46.27,80°11.37
+Miami,AVG Temp (April),75.7,25°46.27,80°11.37
+Miami,AVG Temp (July),83.7,25°46.27,80°11.37
+Miami,AVG Temp (Oct),78.8,25°46.27,80°11.37
+Miami,Yearly AVG Temp,76.58,25°46.27,80°11.37
+Miami,average rainfall,0.94460439,25°46.27,80°11.37
+Miami,average snowfall,0.158487632,25°46.27,80°11.37
+Miami,Presence of Sports Teams,0.529671581,25°46.27,80°11.37
+Miami,Public Parks,0.180237768,25°46.27,80°11.37
+Miami,Total Population,0.313845941,25°46.27,80°11.37
+Miami,Age (25-34),0.278059352,25°46.27,80°11.37
+Miami,Population,0.5,25°46.27,80°11.37
+Miami,Bar Density per 100k,0.445960744,25°46.27,80°11.37
+Miami,Public Transportation,0.684852042,25°46.27,80°11.37
+Milwaukee,Unemployment Rate,0.223230136,43°2.20,87°54.23
+Milwaukee,Tax rate,0.702232639,43°2.20,87°54.23
+Milwaukee,Crime Rate,0.941304546,43°2.20,87°54.23
+Milwaukee,Number of Concert Venues,0.035220215,43°2.20,87°54.23
+Milwaukee,number of breweries ,0.036819135,43°2.20,87°54.23
+Milwaukee,median 1 BR rent,0.216137046,43°2.20,87°54.23
+Milwaukee,AVG Temp (Jan),20.7,43°2.20,87°54.23
+Milwaukee,AVG Temp (April),45.2,43°2.20,87°54.23
+Milwaukee,AVG Temp (July),72,43°2.20,87°54.23
+Milwaukee,AVG Temp (Oct),51.4,43°2.20,87°54.23
+Milwaukee,Yearly AVG Temp,47.33,43°2.20,87°54.23
+Milwaukee,average rainfall,0.403054149,43°2.20,87°54.23
+Milwaukee,average snowfall,0.90193977,43°2.20,87°54.23
+Milwaukee,Presence of Sports Teams,0.07395955,43°2.20,87°54.23
+Milwaukee,Public Parks,0.659482288,43°2.20,87°54.23
+Milwaukee,Total Population,0.336023029,43°2.20,87°54.23
+Milwaukee,Age (25-34),0.286865259,43°2.20,87°54.23
+Milwaukee,Population,0.81346708,43°2.20,87°54.23
+Milwaukee,Bar Density per 100k,0.829226418,43°2.20,87°54.23
+Milwaukee,Public Transportation,0.479919557,43°2.20,87°54.23
+Minneapolis,Unemployment Rate,0.021167494,44°58.47,93°15.49
+Minneapolis,Tax rate,0.855611369,44°58.47,93°15.49
+Minneapolis,Crime Rate,0.425909083,44°58.47,93°15.49
+Minneapolis,Number of Concert Venues,0.035220215,44°58.47,93°15.49
+Minneapolis,number of breweries ,0.185546685,44°58.47,93°15.49
+Minneapolis,median 1 BR rent,0.350431568,44°58.47,93°15.49
+Minneapolis,AVG Temp (Jan),13.1,44°58.47,93°15.49
+Minneapolis,AVG Temp (April),46.6,44°58.47,93°15.49
+Minneapolis,AVG Temp (July),73.2,44°58.47,93°15.49
+Minneapolis,AVG Temp (Oct),48.7,44°58.47,93°15.49
+Minneapolis,Yearly AVG Temp,45.4,44°58.47,93°15.49
+Minneapolis,average rainfall,0.253230402,44°58.47,93°15.49
+Minneapolis,average snowfall,0.924240971,44°58.47,93°15.49
+Minneapolis,Presence of Sports Teams,0.590289695,44°58.47,93°15.49
+Minneapolis,Public Parks,0.95135844,44°58.47,93°15.49
+Minneapolis,Total Population,0.302069135,44°58.47,93°15.49
+Minneapolis,Age (25-34),0.311696305,44°58.47,93°15.49
+Minneapolis,Population,0.18987187,44°58.47,93°15.49
+Minneapolis,Bar Density per 100k,0.293395213,44°58.47,93°15.49
+Minneapolis,Public Transportation,0.693485602,44°58.47,93°15.49
+Nashville,Unemployment Rate,0.223230136,36°9.57,86°47.4
+Nashville,Tax rate,0.277815957,36°9.57,86°47.4
+Nashville,Crime Rate,0.448000267,36°9.57,86°47.4
+Nashville,Number of Concert Venues,0.065834008,36°9.57,86°47.4
+Nashville,number of breweries ,0.036819135,36°9.57,86°47.4
+Nashville,median 1 BR rent,0.35926219,36°9.57,86°47.4
+Nashville,AVG Temp (Jan),36.8,36°9.57,86°47.4
+Nashville,AVG Temp (April),58.5,36°9.57,86°47.4
+Nashville,AVG Temp (July),79.1,36°9.57,86°47.4
+Nashville,AVG Temp (Oct),59.9,36°9.57,86°47.4
+Nashville,Yearly AVG Temp,58.58,36°9.57,86°47.4
+Nashville,average rainfall,0.784156377,36°9.57,86°47.4
+Nashville,average snowfall,0.305775428,36°9.57,86°47.4
+Nashville,Presence of Sports Teams,0.350134761,36°9.57,86°47.4
+Nashville,Public Parks,0.148535639,36°9.57,86°47.4
+Nashville,Total Population,0.354371368,36°9.57,86°47.4
+Nashville,Age (25-34),0.361066343,36°9.57,86°47.4
+Nashville,Population,0.555386928,36°9.57,86°47.4
+Nashville,Bar Density per 100k,0.792532374,36°9.57,86°47.4
+Nashville,Public Transportation,0.063102213,36°9.57,86°47.4
+New Orleans,Unemployment Rate,0.981854691,29°57.16,90°4.30
+New Orleans,Tax rate,0.553042249,29°57.16,90°4.30
+New Orleans,Crime Rate,0.950008658,29°57.16,90°4.30
+New Orleans,Number of Concert Venues,0.726753202,29°57.16,90°4.30
+New Orleans,number of breweries ,0.036819135,29°57.16,90°4.30
+New Orleans,median 1 BR rent,0.266460958,29°57.16,90°4.30
+New Orleans,AVG Temp (Jan),52.6,29°57.16,90°4.30
+New Orleans,AVG Temp (April),68.2,29°57.16,90°4.30
+New Orleans,AVG Temp (July),82.7,29°57.16,90°4.30
+New Orleans,AVG Temp (Oct),70,29°57.16,90°4.30
+New Orleans,Yearly AVG Temp,68.38,29°57.16,90°4.30
+New Orleans,average rainfall,0.978892697,29°57.16,90°4.30
+New Orleans,average snowfall,0.160858922,29°57.16,90°4.30
+New Orleans,Presence of Sports Teams,0.293171036,29°57.16,90°4.30
+New Orleans,Public Parks,0.567004573,29°57.16,90°4.30
+New Orleans,Total Population,0.296937999,29°57.16,90°4.30
+New Orleans,Age (25-34),0.287681831,29°57.16,90°4.30
+New Orleans,Population,0.976996393,29°57.16,90°4.30
+New Orleans,Bar Density per 100k,0.861478491,29°57.16,90°4.30
+New Orleans,Public Transportation,0.377089861,29°57.16,90°4.30
+New York,Unemployment Rate,0.747346646,40°42.51,74°0.21
+New York,Tax rate,0.791800109,40°42.51,74°0.21
+New York,Crime Rate,0.321965167,40°42.51,74°0.21
+New York,Number of Concert Venues,0.035220215,40°42.51,74°0.21
+New York,number of breweries ,0.411531637,40°42.51,74°0.21
+New York,median 1 BR rent,0.98615872,40°42.51,74°0.21
+New York,AVG Temp (Jan),32.1,40°42.51,74°0.21
+New York,AVG Temp (April),52.5,40°42.51,74°0.21
+New York,AVG Temp (July),76.5,40°42.51,74°0.21
+New York,AVG Temp (Oct),56.6,40°42.51,74°0.21
+New York,Yearly AVG Temp,54.43,40°42.51,74°0.21
+New York,average rainfall,0.818292567,40°42.51,74°0.21
+New York,average snowfall,0.653523632,40°42.51,74°0.21
+New York,Presence of Sports Teams,0.958222784,40°42.51,74°0.21
+New York,Public Parks,0.838494389,40°42.51,74°0.21
+New York,Total Population,0.999984652,40°42.51,74°0.21
+New York,Age (25-34),0.999985801,40°42.51,74°0.21
+New York,Population,0.388384763,40°42.51,74°0.21
+New York,Bar Density per 100k,0.067508691,40°42.51,74°0.21
+New York,Public Transportation,0.986044321,40°42.51,74°0.21
+Philadelphia,Unemployment Rate,0.837290751,39°57.8,75°9.49
+Philadelphia,Tax rate,0.283498721,39°57.8,75°9.49
+Philadelphia,Crime Rate,0.812408028,39°57.8,75°9.49
+Philadelphia,Number of Concert Venues,0.934165992,39°57.8,75°9.49
+Philadelphia,number of breweries ,0.814453315,39°57.8,75°9.49
+Philadelphia,median 1 BR rent,0.401124041,39°57.8,75°9.49
+Philadelphia,AVG Temp (Jan),32.3,39°57.8,75°9.49
+Philadelphia,AVG Temp (April),53.1,39°57.8,75°9.49
+Philadelphia,AVG Temp (July),77.6,39°57.8,75°9.49
+Philadelphia,AVG Temp (Oct),57.2,39°57.8,75°9.49
+Philadelphia,Yearly AVG Temp,55.05,39°57.8,75°9.49
+Philadelphia,average rainfall,0.624074158,39°57.8,75°9.49
+Philadelphia,average snowfall,0.505684022,39°57.8,75°9.49
+Philadelphia,Presence of Sports Teams,0.770362619,39°57.8,75°9.49
+Philadelphia,Public Parks,0.47352251,39°57.8,75°9.49
+Philadelphia,Total Population,0.557172767,39°57.8,75°9.49
+Philadelphia,Age (25-34),0.549062386,39°57.8,75°9.49
+Philadelphia,Population,0.577784261,39°57.8,75°9.49
+Philadelphia,Bar Density per 100k,0.341776438,39°57.8,75°9.49
+Philadelphia,Public Transportation,0.85723437,39°57.8,75°9.49
+Pittsburgh,Unemployment Rate,0.636433835,40°26.26,79°59.45
+Pittsburgh,Tax rate,0.283498721,40°26.26,79°59.45
+Pittsburgh,Crime Rate,0.099144428,40°26.26,79°59.45
+Pittsburgh,Number of Concert Venues,0.6184877,40°26.26,79°59.45
+Pittsburgh,number of breweries ,0.036819135,40°26.26,79°59.45
+Pittsburgh,median 1 BR rent,0.222511424,40°26.26,79°59.45
+Pittsburgh,AVG Temp (Jan),27.5,40°26.26,79°59.45
+Pittsburgh,AVG Temp (April),49.9,40°26.26,79°59.45
+Pittsburgh,AVG Temp (July),72.6,40°26.26,79°59.45
+Pittsburgh,AVG Temp (Oct),52.5,40°26.26,79°59.45
+Pittsburgh,Yearly AVG Temp,50.63,40°26.26,79°59.45
+Pittsburgh,average rainfall,0.496162477,40°26.26,79°59.45
+Pittsburgh,average snowfall,0.870082225,40°26.26,79°59.45
+Pittsburgh,Presence of Sports Teams,0.83866178,40°26.26,79°59.45
+Pittsburgh,Public Parks,0.580973707,40°26.26,79°59.45
+Pittsburgh,Total Population,0.278940061,40°26.26,79°59.45
+Pittsburgh,Age (25-34),0.27628779,40°26.26,79°59.45
+Pittsburgh,Population,0.995542373,40°26.26,79°59.45
+Pittsburgh,Bar Density per 100k,0.706604787,40°26.26,79°59.45
+Pittsburgh,Public Transportation,0.621795387,40°26.26,79°59.45
+"Portland, OR",Unemployment Rate,0.51265315,45°31.24,122°40.34
+"Portland, OR",Tax rate,0.858331389,45°31.24,122°40.34
+"Portland, OR",Crime Rate,0.34048705,45°31.24,122°40.34
+"Portland, OR",Number of Concert Venues,0.035220215,45°31.24,122°40.34
+"Portland, OR",number of breweries ,0.131776239,45°31.24,122°40.34
+"Portland, OR",median 1 BR rent,0.541123245,45°31.24,122°40.34
+"Portland, OR",AVG Temp (Jan),39.9,45°31.24,122°40.34
+"Portland, OR",AVG Temp (April),51.2,45°31.24,122°40.34
+"Portland, OR",AVG Temp (July),68.1,45°31.24,122°40.34
+"Portland, OR",AVG Temp (Oct),54.3,45°31.24,122°40.34
+"Portland, OR",Yearly AVG Temp,53.38,45°31.24,122°40.34
+"Portland, OR",average rainfall,0.472045704,45°31.24,122°40.34
+"Portland, OR",average snowfall,0.247137941,45°31.24,122°40.34
+"Portland, OR",Presence of Sports Teams,0.142117758,45°31.24,122°40.34
+"Portland, OR",Public Parks,0.892088701,45°31.24,122°40.34
+"Portland, OR",Total Population,0.351243129,45°31.24,122°40.34
+"Portland, OR",Age (25-34),0.357534881,45°31.24,122°40.34
+"Portland, OR",Population,0.940156378,45°31.24,122°40.34
+"Portland, OR",Bar Density per 100k,0.658223562,45°31.24,122°40.34
+"Portland, OR",Public Transportation,0.55047696,45°31.24,122°40.34
+San Diego,Unemployment Rate,0.32848193,32°42.56,117°9.53
+San Diego,Tax rate,0.970748187,32°42.56,117°9.53
+San Diego,Crime Rate,0.056155341,32°42.56,117°9.53
+San Diego,Number of Concert Venues,0.273246798,32°42.56,117°9.53
+San Diego,number of breweries ,0.058762434,32°42.56,117°9.53
+San Diego,median 1 BR rent,0.851163988,32°42.56,117°9.53
+San Diego,AVG Temp (Jan),57.8,32°42.56,117°9.53
+San Diego,AVG Temp (April),62.6,32°42.56,117°9.53
+San Diego,AVG Temp (July),70.9,32°42.56,117°9.53
+San Diego,AVG Temp (Oct),67.6,32°42.56,117°9.53
+San Diego,Yearly AVG Temp,64.73,32°42.56,117°9.53
+San Diego,average rainfall,0.017413232,32°42.56,117°9.53
+San Diego,average snowfall,0.158487632,32°42.56,117°9.53
+San Diego,Presence of Sports Teams,0.23727846,32°42.56,117°9.53
+San Diego,Public Parks,0.66728547,32°42.56,117°9.53
+San Diego,Total Population,0.52627141,32°42.56,117°9.53
+San Diego,Age (25-34),0.53624344,32°42.56,117°9.53
+San Diego,Population,0.125938509,32°42.56,117°9.53
+San Diego,Bar Density per 100k,0.5,32°42.56,117°9.53
+San Diego,Public Transportation,0.225685238,32°42.56,117°9.53
+San Francisco,Unemployment Rate,0.060046768,37°46.29,122°25.9
+San Francisco,Tax rate,0.970748187,37°46.29,122°25.9
+San Francisco,Crime Rate,0.530128522,37°46.29,122°25.9
+San Francisco,Number of Concert Venues,0.035220215,37°46.29,122°25.9
+San Francisco,number of breweries ,0.5,37°46.29,122°25.9
+San Francisco,median 1 BR rent,0.998590444,37°46.29,122°25.9
+San Francisco,AVG Temp (Jan),49.4,37°46.29,122°25.9
+San Francisco,AVG Temp (April),56.2,37°46.29,122°25.9
+San Francisco,AVG Temp (July),62.8,37°46.29,122°25.9
+San Francisco,AVG Temp (Oct),61,37°46.29,122°25.9
+San Francisco,Yearly AVG Temp,57.35,37°46.29,122°25.9
+San Francisco,average rainfall,0.082902005,37°46.29,122°25.9
+San Francisco,average snowfall,0.158487632,37°46.29,122°25.9
+San Francisco,Presence of Sports Teams,0.338727129,37°46.29,122°25.9
+San Francisco,Public Parks,0.908299481,37°46.29,122°25.9
+San Francisco,Total Population,0.401417883,37°46.29,122°25.9
+San Francisco,Age (25-34),0.447969948,37°46.29,122°25.9
+San Francisco,Population,0.872253505,37°46.29,122°25.9
+San Francisco,Bar Density per 100k,0.170773582,37°46.29,122°25.9
+San Francisco,Public Transportation,0.971223417,37°46.29,122°25.9
+Seattle,Unemployment Rate,0.636433835,47°36.22,122°19.55
+Seattle,Tax rate,0.094754119,47°36.22,122°19.55
+Seattle,Crime Rate,0.310915525,47°36.22,122°19.55
+Seattle,Number of Concert Venues,0.035220215,47°36.22,122°19.55
+Seattle,number of breweries ,0.588468363,47°36.22,122°19.55
+Seattle,median 1 BR rent,0.711691346,47°36.22,122°19.55
+Seattle,AVG Temp (Jan),40.9,47°36.22,122°19.55
+Seattle,AVG Temp (April),50.2,47°36.22,122°19.55
+Seattle,AVG Temp (July),65.3,47°36.22,122°19.55
+Seattle,AVG Temp (Oct),52.7,47°36.22,122°19.55
+Seattle,Yearly AVG Temp,52.28,47°36.22,122°19.55
+Seattle,average rainfall,0.485024569,47°36.22,122°19.55
+Seattle,average snowfall,0.25178433,47°36.22,122°19.55
+Seattle,Presence of Sports Teams,0.41152178,47°36.22,122°19.55
+Seattle,Public Parks,0.805109243,47°36.22,122°19.55
+Seattle,Total Population,0.370098614,47°36.22,122°19.55
+Seattle,Age (25-34),0.397244326,47°36.22,122°19.55
+Seattle,Population,0.448780088,47°36.22,122°19.55
+Seattle,Bar Density per 100k,0.248452924,47°36.22,122°19.55
+Seattle,Public Transportation,0.734990442,47°36.22,122°19.55
